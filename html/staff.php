@@ -373,7 +373,7 @@
                                 <th>Photo</th>
                                 <th>Full Name</th>
                                 <th>Contact</th>
-                                <th>Birthday</th>
+                                <th>Birthdate</th>
                                 <th>Position</th>
                                 <th>User Type</th>
                                 <th>Address</th>

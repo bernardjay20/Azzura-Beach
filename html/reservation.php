@@ -361,7 +361,7 @@
                   <div class="card">
                         <div class="card-header">
                             <button type="button" class="btn btn-primary" style="float: right; background-color: #0B6623;" data-bs-toggle="modal" data-bs-target="#hotelroomModal">
-                                Add Reservation
+                            <a href="addreservation.php" style="text-decoration: none; color: white;">  Add Reservation</a>
                             </button>
                         </div>
                     <div class="card-body">
